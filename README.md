@@ -16,11 +16,11 @@ The report documents the development of a model predicting ideal exit times for 
 
 ## Repository Structure
 report/ — LaTeX source files
-         acl2023.pdf — Style overview
-         acl2023.tex — Main LaTeX file
-         acl2023.sty — Custom style file
-         acl_natbib.bst — Bibliography style
-         bib/ — Bibliography files
-         images/ — Figures and screenshots used in the report
+        - acl2023.pdf — Style overview
+        - acl2023.tex — Main LaTeX file
+        - acl2023.sty — Custom style file
+        - acl_natbib.bst — Bibliography style
+        - bib/ — Bibliography files
+        - images/ — Figures and screenshots used in the report
 VIP_Final_Report.pdf — Compiled PDF of the report
 README.md — Description of project and file
